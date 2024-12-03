@@ -4,16 +4,16 @@ This project demonstrates a Fisheye Menu implementation, where menu items dynami
 ## Usability Heuristics Menu Items
 The menu includes 10 items, each representing one of Nielsen's Usability Heuristics:
 
-UH#1: Visibility of system status
-UH#2: Match between system and the real world
-UH#3: User control and freedom
-UH#4: Consistency and standards
-UH#5: Error prevention
-UH#6: Recognition rather than recall
-UH#7: Flexibility and efficiency of use
-UH#8: Aesthetic and minimalist design
-UH#9: Help users recognize, diagnose, and recover from errors
-UH#10: Help and documentation
+UH#1: Visibility of system status<br>
+UH#2: Match between system and the real world<br>
+UH#3: User control and freedom<br>
+UH#4: Consistency and standards<br>
+UH#5: Error prevention<br>
+UH#6: Recognition rather than recall<br>
+UH#7: Flexibility and efficiency of use<br>
+UH#8: Aesthetic and minimalist design<br>
+UH#9: Help users recognize, diagnose, and recover from errors<br>
+UH#10: Help and documentation<br>
 
 
 Assignment instruction
